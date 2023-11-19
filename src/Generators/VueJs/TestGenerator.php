@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\Generator\Generators\API;
+namespace Generators\API;
 
 use InfyOm\Generator\Common\CommandData;
 use InfyOm\Generator\Generators\BaseGenerator;
