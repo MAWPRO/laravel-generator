@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\Generator\Generators\Vuejs;
+namespace Generators\Vuejs;
 
 use Illuminate\Support\Str;
 use InfyOm\Generator\Common\CommandData;
